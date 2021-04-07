@@ -25,7 +25,7 @@
                     <stroke android:width="1.5999756dip"
                         android:color="#85626161" />
                     <solid android:color="#2c626161" />
-                    <corners android:radius="20dp" />
+                    <corners android:radius="99dp" />
                 </shape>
             </item>
             <item android:state_pressed="false">
@@ -35,7 +35,7 @@
                     <stroke android:width="1dp"
                         android:color="#85626161" />
                     <solid android:color="#2c626161" />
-                    <corners android:radius="20dp" />
+                    <corners android:radius="99dp" />
                 </shape>
             </item>
         </selector>
@@ -47,19 +47,19 @@
                 <item android:state_pressed="true">
                     <shape android:tint="?android:colorAccent"
                        android:shape="rectangle">
-                        <size android:height="10dp" />
+                        <size android:height="20dp" />
                         <stroke android:width="1dp"
                              android:color="#ffffffff" />
                         <solid android:color="#ffffffff" />
-                        <corners android:radius="20dp" />
+                        <corners android:radius="99dp" />
                     </shape>
                 </item>
                 <item android:state_pressed="false">
                     <shape android:tint="?android:colorAccent"
                        android:shape="rectangle">
-                        <size android:height="10dp" />
+                        <size android:height="20dp" />
                         <solid android:color="@*android:color/white" />
-                        <corners android:radius="20dp" />
+                        <corners android:radius="99dp" />
                     </shape>
                 </item>
             </selector>
