@@ -525,7 +525,7 @@ public class PhoneStatusBarPolicy
 
     private int getBtLevelIconRes(int batteryLevel) {
         if (batteryLevel == 100) {
-            return R.drawable.stat_sys_data_bluetooth_connected_battery_10;
+            return R.drawable.stat_sys_data_bluetooth_connected_battery_9;
         } else if (batteryLevel >= 90) {
             return R.drawable.stat_sys_data_bluetooth_connected_battery_9;
         } else if (batteryLevel >= 80) {
