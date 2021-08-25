@@ -5627,6 +5627,11 @@ public final class Settings {
 
 
         /**
+         * Weather to enable statusbar dual
+         */
+        public static final String STATUSBAR_DUAL = "statusbar_dual";
+
+        /**
          * Package name of apps for enabling Gaming mode
          * @hide
          */
