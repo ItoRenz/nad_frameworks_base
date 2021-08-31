@@ -1,26 +1,12 @@
-<!--
-    Copyright (C) 2014 The Android Open Source Project
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="27dp"
-    android:height="36dp"
-    android:viewportWidth="36.0"
-    android:viewportHeight="48.0">
+    android:height="21dp"
+    android:width="21dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
 
     <path
         android:fillColor="?android:attr/colorControlActivated"
-        android:pathData="m 18,29.073759 v 0 c 2.802161,0 5.07376,-2.271599 5.07376,-5.073759 0,-2.80216 -2.271599,-5.07376 -5.07376,-5.07376 -2.802161,0 -5.07376,2.2716 -5.07376,5.07376 0,2.80216 2.271599,5.073759 5.07376,5.073759 z m 0,3.382507 v 0 c -4.670268,0 -8.4562669,-3.786 -8.4562669,-8.456266 0,-4.670267 3.7859989,-8.456267 8.4562669,-8.456267 4.670267,0 8.456267,3.786 8.456267,8.456267 0,4.670266 -3.786,8.456266 -8.456267,8.456266 z"
-        android:strokeWidth="1.0" />
+        android:pathData="M11.25 3h1.5v2h-1.5V3zm-5 9c0 3.176 2.574 5.75 5.75 5.75s5.75-2.574 5.75-5.75S15.176 6.25 12 6.25 6.25 8.824 6.25 12zm10 0c0 2.347-1.903 4.25-4.25 4.25S7.75 14.347 7.75 12 9.653 7.75 12 7.75s4.25 1.903 4.25 4.25zm-5 9v-2h1.5v2h-1.5zM3 11.25v1.5h2v-1.5H3zm16 1.5h2v-1.5h-2v1.5zM6.17 18.89l-1.06-1.06 1.41-1.41 1.06 1.06-1.41 1.41zm0-13.78L5.11 6.17l1.41 1.41 1.06-1.06-1.41-1.41zm11.66 0l1.06 1.06-1.41 1.41-1.06-1.06 1.41-1.41zm0 13.78l1.06-1.06-1.41-1.41-1.06 1.06 1.41 1.41z"
+        android:fillType="evenOdd"/>
 </vector>
