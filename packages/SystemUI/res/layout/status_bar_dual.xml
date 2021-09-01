@@ -157,16 +157,6 @@
                                android:layout_weight="1.0"
                                android:paddingEnd="@dimen/signal_cluster_battery_padding" />
 
-                            <com.android.systemui.BatteryMeterView
-                               android:id="@+id/battery"
-                               android:clipChildren="false"
-                               android:clipToPadding="false"
-                               android:layout_width="wrap_content"
-                               android:layout_height="fill_parent"
-                               android:paddingEnd="@dimen/status_bar_end_padding"
-                               android:layout_marginStart="2dp"
-                               systemui:textAppearance="@style/TextAppearance.StatusBar.Clock" />
-
                         </com.android.keyguard.AlphaOptimizedLinearLayout>
 
                     </LinearLayout>
@@ -258,6 +248,16 @@
                            android:layout_height="fill_parent"
                            android:layout_weight="1.0"
                            android:layoutDirection="rtl" />
+
+                      <com.android.systemui.BatteryMeterView
+                           android:id="@+id/battery"
+                           android:clipChildren="false"
+                           android:clipToPadding="false"
+                           android:layout_width="wrap_content"
+                           android:layout_height="fill_parent"
+                           android:paddingEnd="@dimen/status_bar_end_padding"
+                           android:layout_marginStart="2dp"
+                           systemui:textAppearance="@style/TextAppearance.StatusBar.Clock" />
                     </LinearLayout>
 
                 </LinearLayout>
