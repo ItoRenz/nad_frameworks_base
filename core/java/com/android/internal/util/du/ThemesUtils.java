@@ -172,6 +172,9 @@ public class ThemesUtils {
             "com.nusantara.systemui.signalbar_f",
             "com.nusantara.systemui.signalbar_g",
             "com.nusantara.systemui.signalbar_h",
+            "com.nusantara.systemui.signalbar_i",
+            "com.nusantara.systemui.signalbar_j",
+            "com.nusantara.systemui.signalbar_k",
     };
 
     // Statusbar Wifi icons
@@ -184,5 +187,8 @@ public class ThemesUtils {
             "com.nusantara.systemui.wifibar_f",
             "com.nusantara.systemui.wifibar_g",
             "com.nusantara.systemui.wifibar_h",
+            "com.nusantara.systemui.wifibar_i",
+            "com.nusantara.systemui.wifibar_j",
+            "com.nusantara.systemui.wifibar_k",
     };
 }
