@@ -79,6 +79,4 @@
             android:gravity="center_vertical|end"
             systemui:textAppearance="@style/TextAppearance.StatusBar.Clock" />
 
-    </LinearLayout>
-
 </LinearLayout>
